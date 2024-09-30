@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mampi/static/css/main.e6c13ad2.css",
+    "main.js": "/mampi/static/js/main.9de6e509.js",
+    "static/js/453.8cc8f0d1.chunk.js": "/mampi/static/js/453.8cc8f0d1.chunk.js",
+    "index.html": "/mampi/index.html",
+    "main.e6c13ad2.css.map": "/mampi/static/css/main.e6c13ad2.css.map",
+    "main.9de6e509.js.map": "/mampi/static/js/main.9de6e509.js.map",
+    "453.8cc8f0d1.chunk.js.map": "/mampi/static/js/453.8cc8f0d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9de6e509.js"
+  ]
+}
